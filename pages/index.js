@@ -14,7 +14,7 @@ export default function Home() {
         <Header />
         <p className="description">
         Te {' '}
-        <img src="/netliheart.svg" alt="Netlify Logo" className="logo" /> for
+        <img src="/netliheart.svg" alt="Netlify Logo" className="logo" /> 
          safadona! xD
         </p>
       </main>
