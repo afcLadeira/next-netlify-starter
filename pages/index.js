@@ -20,11 +20,11 @@ export default function Home() {
     <h1> How many days without a MALTA FIXE LUNCH 😅</h1>
     <ul className="sessions">
       <li>
-        <div className="time">-13.7 mil milhões de anos</div>
+        <div className="time">-13.7 billion years</div>
         <p>BIG BANG 🤯🤯</p>
       </li>
       <li>
-        <div className="time">-4.6 mil milho~es</div>
+        <div className="time">-4.6 billion years</div>
         <p>Earth 🤷..</p>
         <div style={{height:300}}></div>
       </li>
@@ -34,7 +34,7 @@ export default function Home() {
       </li>
       <li>
         <div className="time">1 July 2021</div>
-        <p>Inês Birthday 😵</p>
+        <p>Inês Birthday ❤️</p>
       </li>
       {/* <li>
         <div className="time">01:30 PM</div>
